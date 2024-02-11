@@ -1,0 +1,20 @@
+
+body{
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+p{
+    color : red;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 40px;
+    display: inline;
+    text-align: center;
+    
+}
