@@ -4,7 +4,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 150px;
+    margin-top: 160px;
 }
 
 p{
@@ -12,7 +12,7 @@ p{
     font-size: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 2px solid red;
-    padding: 10px;
+    padding: 10px 25px;
     border-radius: 40px;
     display: inline;
     text-align: center;
